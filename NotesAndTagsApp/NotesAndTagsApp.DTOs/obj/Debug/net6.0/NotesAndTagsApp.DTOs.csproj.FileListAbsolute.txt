@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\bin\Debug\net6.0\NotesAndTagsApp.DTOs.deps.json
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\bin\Debug\net6.0\NotesAndTagsApp.DTOs.dll
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\bin\Debug\net6.0\NotesAndTagsApp.DTOs.pdb
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\bin\Debug\net6.0\NotesAndTagsApp.Domain.dll
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\bin\Debug\net6.0\NotesAndTagsApp.Domain.pdb
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\obj\Debug\net6.0\NotesAndTagsApp.DTOs.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\obj\Debug\net6.0\NotesAndTagsApp.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\obj\Debug\net6.0\NotesAndTagsApp.DTOs.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\obj\Debug\net6.0\NotesAndTagsApp.DTOs.AssemblyInfo.cs
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\obj\Debug\net6.0\NotesAndTagsApp.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\obj\Debug\net6.0\NotesAndTagsApp.DTOs.csproj.CopyComplete
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\obj\Debug\net6.0\NotesAndTagsApp.DTOs.dll
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\obj\Debug\net6.0\refint\NotesAndTagsApp.DTOs.dll
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\obj\Debug\net6.0\NotesAndTagsApp.DTOs.pdb
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DTOs\obj\Debug\net6.0\ref\NotesAndTagsApp.DTOs.dll

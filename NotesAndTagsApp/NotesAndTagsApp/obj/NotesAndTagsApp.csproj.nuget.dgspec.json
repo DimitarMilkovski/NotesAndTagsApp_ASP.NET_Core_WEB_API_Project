@@ -1,0 +1,602 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp\\NotesAndTagsApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DataAccess\\NotesAndTagsApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DataAccess\\NotesAndTagsApp.DataAccess.csproj",
+        "projectName": "NotesAndTagsApp.DataAccess",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DataAccess\\NotesAndTagsApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Domain\\NotesAndTagsApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Domain\\NotesAndTagsApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Domain\\NotesAndTagsApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Domain\\NotesAndTagsApp.Domain.csproj",
+        "projectName": "NotesAndTagsApp.Domain",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Domain\\NotesAndTagsApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DTOs\\NotesAndTagsApp.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DTOs\\NotesAndTagsApp.DTOs.csproj",
+        "projectName": "NotesAndTagsApp.DTOs",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DTOs\\NotesAndTagsApp.DTOs.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Domain\\NotesAndTagsApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Domain\\NotesAndTagsApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Helpers\\NotesAndTagsApp.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Helpers\\NotesAndTagsApp.Helpers.csproj",
+        "projectName": "NotesAndTagsApp.Helpers",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Helpers\\NotesAndTagsApp.Helpers.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DataAccess\\NotesAndTagsApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DataAccess\\NotesAndTagsApp.DataAccess.csproj"
+              },
+              "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Services\\NotesAndTagsApp.Services.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Services\\NotesAndTagsApp.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Mappers\\NotesAndTagsApp.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Mappers\\NotesAndTagsApp.Mappers.csproj",
+        "projectName": "NotesAndTagsApp.Mappers",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Mappers\\NotesAndTagsApp.Mappers.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DTOs\\NotesAndTagsApp.DTOs.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DTOs\\NotesAndTagsApp.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Services\\NotesAndTagsApp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Services\\NotesAndTagsApp.Services.csproj",
+        "projectName": "NotesAndTagsApp.Services",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Services\\NotesAndTagsApp.Services.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DataAccess\\NotesAndTagsApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DataAccess\\NotesAndTagsApp.DataAccess.csproj"
+              },
+              "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DTOs\\NotesAndTagsApp.DTOs.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.DTOs\\NotesAndTagsApp.DTOs.csproj"
+              },
+              "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Mappers\\NotesAndTagsApp.Mappers.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Mappers\\NotesAndTagsApp.Mappers.csproj"
+              },
+              "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Shared\\NotesAndTagsApp.Shared.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Shared\\NotesAndTagsApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "XAct.Core.PCL": {
+              "target": "Package",
+              "version": "[0.0.5014, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Shared\\NotesAndTagsApp.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Shared\\NotesAndTagsApp.Shared.csproj",
+        "projectName": "NotesAndTagsApp.Shared",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Shared\\NotesAndTagsApp.Shared.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp\\NotesAndTagsApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp\\NotesAndTagsApp.csproj",
+        "projectName": "NotesAndTagsApp",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp\\NotesAndTagsApp.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Helpers\\NotesAndTagsApp.Helpers.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Helpers\\NotesAndTagsApp.Helpers.csproj"
+              },
+              "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Shared\\NotesAndTagsApp.Shared.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp.Shared\\NotesAndTagsApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

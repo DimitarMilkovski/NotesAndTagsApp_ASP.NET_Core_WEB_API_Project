@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp\\wwwroot\\login.js",
+      "PackagePath": "staticwebassets\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp\\wwwroot\\notes.html",
+      "PackagePath": "staticwebassets\\notes.html"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp\\wwwroot\\notes.js",
+      "PackagePath": "staticwebassets\\notes.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\web api sedc repo\\mkwd11-net-09-aspnetwebapi\\G5\\Class 15\\NotesAndTagsApp\\NotesAndTagsApp\\wwwroot\\register.js",
+      "PackagePath": "staticwebassets\\register.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NotesAndTagsApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NotesAndTagsApp.props",
+      "PackagePath": "build\\NotesAndTagsApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NotesAndTagsApp.props",
+      "PackagePath": "buildMultiTargeting\\NotesAndTagsApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NotesAndTagsApp.props",
+      "PackagePath": "buildTransitive\\NotesAndTagsApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

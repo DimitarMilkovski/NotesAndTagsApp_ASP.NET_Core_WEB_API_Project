@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\bin\Debug\net6.0\NotesAndTagsApp.Mappers.deps.json
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\bin\Debug\net6.0\NotesAndTagsApp.Mappers.dll
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\bin\Debug\net6.0\NotesAndTagsApp.Mappers.pdb
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\bin\Debug\net6.0\NotesAndTagsApp.Domain.dll
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\bin\Debug\net6.0\NotesAndTagsApp.DTOs.dll
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\bin\Debug\net6.0\NotesAndTagsApp.DTOs.pdb
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\bin\Debug\net6.0\NotesAndTagsApp.Domain.pdb
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\obj\Debug\net6.0\NotesAndTagsApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\obj\Debug\net6.0\NotesAndTagsApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\obj\Debug\net6.0\NotesAndTagsApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\obj\Debug\net6.0\NotesAndTagsApp.Mappers.AssemblyInfo.cs
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\obj\Debug\net6.0\NotesAndTagsApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\obj\Debug\net6.0\NotesAndTagsApp.Mappers.csproj.CopyComplete
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\obj\Debug\net6.0\NotesAndTagsApp.Mappers.dll
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\obj\Debug\net6.0\refint\NotesAndTagsApp.Mappers.dll
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\obj\Debug\net6.0\NotesAndTagsApp.Mappers.pdb
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.Mappers\obj\Debug\net6.0\ref\NotesAndTagsApp.Mappers.dll

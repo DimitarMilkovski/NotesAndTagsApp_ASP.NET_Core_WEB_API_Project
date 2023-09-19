@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\bin\Debug\net6.0\NotesAndTagsApp.DataAccess.deps.json
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\bin\Debug\net6.0\NotesAndTagsApp.DataAccess.runtimeconfig.json
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\bin\Debug\net6.0\NotesAndTagsApp.DataAccess.dll
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\bin\Debug\net6.0\NotesAndTagsApp.DataAccess.pdb
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\bin\Debug\net6.0\NotesAndTagsApp.Domain.dll
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\bin\Debug\net6.0\NotesAndTagsApp.Domain.pdb
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\obj\Debug\net6.0\NotesAndTagsApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\obj\Debug\net6.0\NotesAndTagsApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\obj\Debug\net6.0\NotesAndTagsApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\obj\Debug\net6.0\NotesAndTagsApp.DataAccess.AssemblyInfo.cs
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\obj\Debug\net6.0\NotesAndTagsApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\obj\Debug\net6.0\NotesAndTagsApp.DataAccess.csproj.CopyComplete
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\obj\Debug\net6.0\NotesAndTagsApp.DataAccess.dll
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\obj\Debug\net6.0\refint\NotesAndTagsApp.DataAccess.dll
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\obj\Debug\net6.0\NotesAndTagsApp.DataAccess.pdb
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\obj\Debug\net6.0\NotesAndTagsApp.DataAccess.genruntimeconfig.cache
+C:\Users\Dell\Desktop\web api sedc repo\mkwd11-net-09-aspnetwebapi\G5\Class 15\NotesAndTagsApp\NotesAndTagsApp.DataAccess\obj\Debug\net6.0\ref\NotesAndTagsApp.DataAccess.dll
